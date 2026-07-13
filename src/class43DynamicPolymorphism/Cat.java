@@ -1,0 +1,7 @@
+package class43DynamicPolymorphism;
+
+public class Cat extends Animal{
+    public void speak() {
+        System.out.println("The cat meows");
+    }
+}
